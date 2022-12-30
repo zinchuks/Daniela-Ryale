@@ -1,7 +1,7 @@
 /*------------slider-----------------------------*/
 $('.banner-slider').slick({
     infinite: true,
-    speed: 500,
+    speed: 600,
 
 });
 $('.product-control').slick({
