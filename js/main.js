@@ -1,6 +1,6 @@
 /*------------slider-----------------------------*/
 $('.banner-slider').slick({
-    infinite: true,
+    infinite: false,
     speed: 600,
 
 });
